@@ -1,0 +1,69 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : com.jw : student.com.jw-1.0-SNAPSHOT.war (exploded)">
+    <output-path>$PROJECT_DIR$/build/libs/exploded/student.com.jw-1.0-SNAPSHOT.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$">
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/libs/exploded/student.com.jw-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="student.com.jw_main/web/Web Gradle : student.com.jw-1.0-SNAPSHOT.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="student.com.jw_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/out/production/resources" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.0.4.RELEASE/addcf1caa22613c474bd6dde8c7134fef940b1f0/spring-webmvc-5.0.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.springframework/spring-web/5.0.4.RELEASE/9565bbc67bf1a850a6505deaa5103931712a7b80/spring-web-5.0.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.springframework/spring-context/5.0.4.RELEASE/3e76d08c851113077642c5704f0f94d5ce58e905/spring-context-5.0.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.0.4.RELEASE/6b5ac0db11d81d6319ebd0bb253b2f01713df3ab/spring-jdbc-5.0.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.springframework/spring-tx/5.0.4.RELEASE/7afc193c5d2b812ee6d2ccaf6fcc81fb83bfb4a7/spring-tx-5.0.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.springframework/spring-test/5.0.4.RELEASE/3fc10b6535a113593fa8780951465012a7677e21/spring-test-5.0.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/4.0.0/60200affc2fe0165136ed3690faf00b66aed581a/javax.servlet-api-4.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.4/498bbc3b94f566982c7f7c6d4d303fce365529be/jackson-databind-2.9.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/commons-fileupload/commons-fileupload/1.3.3/4ff14d809195b711fd6bcc87e6777f886730ca1/commons-fileupload-1.3.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/com.alibaba/fastjson/1.2.47/73d66d7ee99e81373b4955f2ee3797791520329b/fastjson-1.2.47.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.mariadb.jdbc/mariadb-java-client/2.2.3/3a91df529fa4367b2693ed001b53e4899a4258b4/mariadb-java-client-2.2.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.6/a77a546f679533837f6c6a75c034b669f3ce6a2f/mybatis-3.4.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/com.mchange/c3p0/0.9.5.2/5f86cb6130bc6e8475615ed82d5b5e6fb226a86a/c3p0-0.9.5.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.mybatis/mybatis-spring/1.3.2/fd9961cd026b1f6998be27c516973dd5366b14ec/mybatis-spring-1.3.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.ini4j/ini4j/0.5.4/4a3ee4146a90c619b20977d65951825f5675b560/ini4j-0.5.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.json/json/20180130/26ba2ec0e791a32ea5dfbedfcebf36447ee5b12c/json-20180130.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.tmatesoft.svnkit/svnkit/1.9.1/2b6af356de0ed3f26203a2c321a61d92f7fd8a3a/svnkit-1.9.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/javax.mail/mail/1.4.7/9add058589d5d85adeb625859bf2c5eeaaedf12d/mail-1.4.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/xuggle/xuggle-xuggler/5.4/53a5b0f219d86c2fd570675fcbaa6a6c1a0626e8/xuggle-xuggler-5.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.11.0/e6b751e02120c08702d98750f6a80bc25343b7f5/log4j-core-2.11.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.11.0/bede79a3f150711634a3047985517431bf6499f2/log4j-api-2.11.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.springframework/spring-aop/5.0.4.RELEASE/f8e029e54c0267dadb6b9f713f3feb54ec4f3a0e/spring-aop-5.0.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.springframework/spring-beans/5.0.4.RELEASE/7a8c3d48d4c33621e64d1399721d8e067450fcbd/spring-beans-5.0.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.springframework/spring-expression/5.0.4.RELEASE/4bda161f2e34c1486f2527a23eb47293567f473c/spring-expression-5.0.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.4.RELEASE/2221a957b5561a34f044350ba4e30ef5870254a3/spring-core-5.0.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.0/7c10d545325e3a6e72e06381afe469fd40eb701/jackson-annotations-2.9.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.4/a9a71ec1aa37da47db168fede9a4a5fb5e374320/jackson-core-2.9.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/commons-io/commons-io/2.2/83b5b8a7ba1c08f9e8c8ff2373724e33d3c1e22a/commons-io-2.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/com.mchange/mchange-commons-java/0.2.11/2a6a6c1fe25f28f5a073171956ce6250813467ef/mchange-commons-java-0.2.11.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/de.regnis.q.sequence/sequence-library/1.0.3/3bcf12fa805a735bb26369cd66c5933767c026de/sequence-library-1.0.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.tmatesoft.sqljet/sqljet/1.1.11/68c946d051fa4aa9d3f2a793c556c35fcfba0be3/sqljet-1.1.11.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/net.java.dev.jna/jna-platform/4.1.0/23457ad1cf75c2c16763330de5565a0e67b4bc0a/jna-platform-4.1.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.connector-factory/0.0.7/780e0312287dd4e4f3601d401a073a081e403f2d/jsch.agentproxy.connector-factory-0.0.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.usocket-jna/0.0.7/98cf51ca8d7882c203729ffa48e9b7be4c50b835/jsch.agentproxy.usocket-jna-0.0.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.pageant/0.0.7/b40c0d9b10d79a0683ca93e3f70360b3d8045b62/jsch.agentproxy.pageant-0.0.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/net.java.dev.jna/jna/4.1.0/1c12d070e602efd8021891cdd7fd18bc129372d4/jna-4.1.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.svnkit-trilead-ssh2/0.0.7/95015f649026507428aa2f37baba69ba8a86dc67/jsch.agentproxy.svnkit-trilead-ssh2-0.0.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/com.trilead/trilead-ssh2/1.0.0-build221/c14d6fbab5e4ac1eb355f92e91b4c2c28a17e9b9/trilead-ssh2-1.0.0-build221.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/javax.activation/activation/1.1/e6cb541461c2834bdea3eb920f1884d1eb508b50/activation-1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.4.RELEASE/3053e2bad0a18571bdbb9596ce51f9d458f5934f/spring-jcl-5.0.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.antlr/antlr-runtime/3.4/8f011408269a8e42b8548687e137d8eeb56df4b4/antlr-runtime-3.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.usocket-nc/0.0.7/aff6f0f3a68f9731580d7c48075fdf177532dfe6/jsch.agentproxy.usocket-nc-0.0.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.sshagent/0.0.7/5c09a3d2a0562de53cf616794f43f51a3c0a496c/jsch.agentproxy.sshagent-0.0.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.core/0.0.7/9bcf818dc9e5247b01b1b18671a12caac293ae40/jsch.agentproxy.core-0.0.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/net.java.dev.jna/platform/3.4.0/e3f70017be8100d3d6923f50b3d2ee17714e9c13/platform-3.4.0.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
