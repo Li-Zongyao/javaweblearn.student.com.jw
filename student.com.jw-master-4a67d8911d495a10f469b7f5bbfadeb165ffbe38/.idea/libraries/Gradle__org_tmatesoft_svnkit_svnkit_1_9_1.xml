@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.tmatesoft.svnkit:svnkit:1.9.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.tmatesoft.svnkit/svnkit/1.9.1/2b6af356de0ed3f26203a2c321a61d92f7fd8a3a/svnkit-1.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../repos/caches/modules-2/files-2.1/org.tmatesoft.svnkit/svnkit/1.9.1/d6c3fdb14a959beafb3c0108414748abd4b21f85/svnkit-1.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
